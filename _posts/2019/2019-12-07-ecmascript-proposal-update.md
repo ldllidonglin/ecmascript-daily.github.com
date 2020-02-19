@@ -20,6 +20,7 @@ The changes of proposal's status @ [73th meeting of Ecma TC39][Agendas]
 
 | Proposal                                                                                | Stage |
 | --------------------------------------------------------------------------------------- | ----- |
+| [RegExp Match Indices](https://github.com/tc39/proposal-regexp-match-Indices)           | 3     |
 | [Generator arrow functions](https://github.com/tc39/proposal-generator-arrow-functions) | 1     |
 | [Array reject](https://github.com/jridgewell/proposal-array-select-reject)              | 1     |
 | [Operator overloading](https://github.com/littledan/proposal-operator-overloading)      | 1     |
